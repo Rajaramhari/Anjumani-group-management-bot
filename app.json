@@ -84,17 +84,17 @@
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "kavinduaj"
+         "value": "Tanujairam"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: lkhitech. If this ever points to masha support than consider you made an enemy.",
          "required": true,
-         "value": "lkhitech"
+         "value": "anjumani addict"
       },
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
          "required": true,
-         "value": ""
+         "value": "mongodb+srv://Anjumani:Anjumani@cluster0.otqof.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
       },
       "IBM_WATSON_CRED_URL": {
          "description": "This is required for the speech to text module. Get your USERNAME from https://console.bluemix.net/docs/services/speech-to-text/getting-started.html",
@@ -112,7 +112,7 @@
       "JOIN_LOGGER": {
          "description": "A channel where bot will print who added it to what group, useful during debugging or spam handling.",
          "required": true,
-         "value": "-123456789"
+         "value": "t"
       },      
       "CASH_API_KEY": {
          "description": "Required for currency converter. Get yours from https://www.alphavantage.co/support/#api-key",
@@ -137,7 +137,7 @@
       "SPAMWATCH_SUPPORT_CHAT": {
          "description": "Spamwatch API Token, Get one from @SpamWatchBot.",
          "required": true,
-         "value": ""
+         "value": "pdB0pJIsV2gdJOd62~__zaVarUzBSsDRwdMk1cGCebLALBpDqsDmQFwhNOYuCrJl"
       }, 
       "STRICT_GBAN": {
          "description": "Enforce gbans across new groups as well as old groups. When a gbanned user talks, he will be banned.",
@@ -228,7 +228,7 @@
       "ARQ_API_KEY": {
          "description": "Start this boat https://t.me/ARQRobot. Get the key ",
          "required": true,
-         "value": ""
+         "value": "GBUSJG-TLVMHA-ONLZQJ-OKONMA-ARQ"
       },         
       "REM_BG_API_KEY": {
          "description": "Go to this site https://www.remove.bg/api#remove-background. Get your api key",
