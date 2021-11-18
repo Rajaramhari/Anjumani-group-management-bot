@@ -233,7 +233,7 @@
       "REM_BG_API_KEY": {
          "description": "Go to this site https://www.remove.bg/api#remove-background. Get your api key",
          "required": true,
-         "value": ""
+         "value": "5jfNxoHwuiAeKpUXJ4tdXzzf"
       },
       "GENIUS_API_TOKEN": {
          "description": "Go to this site https://docs.genius.com/. Get your api token",
