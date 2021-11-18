@@ -367,7 +367,7 @@ def mrjoker_about_callback(update, context):
         query.message.edit_text(
             
             text=f"*🤡 Hi again!  The name's Anjumani security bot  \n\nAs  You I'm a next generational group management bot developed by Anjmani team .* "
-            f"\n\n 🔥 Join [Anjumani addict](https://t.me/anjumani_addict) To Keep Yourself Updated About {dispatcher.bot.first_name} 🔥"
+            f"\n\n 🔥 Join [Anjumani addict](https://t.me/anjumani_addict) To Keep Yourself Updated About Anjumani security bot 🔥"
             f"\n\n I have the normal GROUP MANAGING functions like flood control, a warning system etc but I mainly have the advanced and handy Antispam system and the SIBYL banning system which safegaurds and helps your group from spammers."
             f"\n\nI Can Manage Your Groups Smoothly, With Some Special Features [:)](https://super.rootgamer.workers.dev/0:/-6302840176346508503_121.jpg)"
             f"\n\n Report error /bugs click the Button",
