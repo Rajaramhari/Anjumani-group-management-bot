@@ -72,9 +72,9 @@ def get_readable_time(seconds: int) -> str:
 
     return ping_time
 
-MRJOKER_IMG = "https://www.linkpicture.com/q/Orange-and-White-Funny-Dating-Animated-Video-Presentation.gif"
+MRJOKER_IMG = "https://super.rootgamer.workers.dev/0:/-6302840176346508503_121.jpg"
 
-MRJOKER_AUD = "https://audio.jukehost.co.uk/kKJkdHgoMPeqdel4sDrEHr7m4U6o4Xya"
+MRJOKER_AUD = "https://super.rootgamer.workers.dev/0:/-6302840176346508503_121.jpg"
 
 
 PM_START_TEXT = """
@@ -366,7 +366,7 @@ def mrjoker_about_callback(update, context):
     if query.data == "mrjoker_":
         query.message.edit_text(
             
-            text=f"*🤡 Hi again!  The name's Anjumani security bot  \n\nAs  You I'm a next generational group management bot developed by Anjmani team .* "
+            text=f"*🤡 Hi again!  The name's Anjumani security bot  \n\nAs  You I'm a next generational group management bot developed by Anjumani team .* "
             f"\n\n 🔥 Join [Anjumani addict](https://t.me/anjumani_addict) To Keep Yourself Updated About Anjumani security bot 🔥"
             f"\n\n I have the normal GROUP MANAGING functions like flood control, a warning system etc but I mainly have the advanced and handy Antispam system and the SIBYL banning system which safegaurds and helps your group from spammers."
             f"\n\nI Can Manage Your Groups Smoothly, With Some Special Features [:)](https://super.rootgamer.workers.dev/0:/-6302840176346508503_121.jpg)"
@@ -400,9 +400,9 @@ def mrjoker_about_callback(update, context):
     elif query.data == "mrjoker_basichelp":
         query.message.edit_text(
             text=f"*Here's basic Help regarding* *How to use Me?*"
-            f"\n\n• Firstly Add {dispatcher.bot.first_name} to your group by pressing [here](http://t.me/{dispatcher.bot.username}?startgroup=true)\n"
+            f"\n\n• Firstly Add Anjumani security bot to your group by pressing [here](http://t.me/{dispatcher.bot.username}?startgroup=true)\n"
             f"\n• Powerfull Telegram group Management Bot\n"
-            f"\n• Than send `/admincache@Mrjokerlk_bot` in that chat to refresh admin list in My database.\n"
+            f"\n• Than send `/admincache@anjumani_bot` in that chat to refresh admin list in My database.\n"
             f"\n\n*All done now use below given button's to know about use!*\n"
             f"",
             parse_mode=ParseMode.MARKDOWN,
