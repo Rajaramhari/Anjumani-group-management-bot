@@ -1,28 +1,23 @@
 <h1 align = "center"> ❝𝐓𝐡𝐞 𝐌𝐨𝐬𝐭 𝐏𝐨𝐰𝐞𝐫𝐟𝐮𝐥𝐥 𝐆𝐫𝐨𝐮𝐩 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 𝐁𝐨𝐭❞ </h1>
 
 
-<p align = "center"><a herf = "https://t.me/M
+
   
   
   
   
 
 
-<p align = "center">
 
 
 
 
 
-<p align = "center">
-<a href = "https://github.com/kjeymax/MR-JOKER_BOT">
-<img src = "https://forthebadge.com/images/badges/open-source.svg">
-</p>
-</a>
 
 
-<p align="Center">
-<a href="https://github.com/kjeymax/MR-JOKER_BOT/discussions" alt="Mr Joker"> <img src="https://img.shields.io/badge/%F0%9F%A4%A1-Mr%20Joker%20Discussions-9cf" /> </a>
+
+
+
 
 
 <h1 align ="center"> Anjumani group management bot</h1>
