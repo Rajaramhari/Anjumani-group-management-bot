@@ -232,7 +232,7 @@ def start(update: Update, context: CallbackContext):
             ),
             parse_mode=ParseMode.HTML,
             reply_markup=InlineKeyboardMarkup(
-                [[InlineKeyboardButton(text="Channel", url="https://t.me/anjumani_addict")]]
+                [[InlineKeyboardButton(text="Channel", url="https://t.me/anjumani_zone")]]
             ),
         )
         
@@ -367,7 +367,7 @@ def mrjoker_about_callback(update, context):
         query.message.edit_text(
             
             text=f"*🤡 Hi again!  The name's Anjumani security bot  \n\nAs  You I'm a next generational group management bot developed by Anjumani team .* "
-            f"\n\n 🔥 Join [Anjumani addict](https://t.me/anjumani_addict) To Keep Yourself Updated About Anjumani security bot 🔥"
+            f"\n\n 🔥 Join [Anjumani addict](https://t.me/anjumani_zone) To Keep Yourself Updated About New movies 🔥"
             f"\n\n I have the normal GROUP MANAGING functions like flood control, a warning system etc but I mainly have the advanced and handy Antispam system and the SIBYL banning system which safegaurds and helps your group from spammers."
             f"\n\nI Can Manage Your Groups Smoothly, With Some Special Features [:)](https://super.rootgamer.workers.dev/0:/-6302840176346508503_121.jpg)"
             f"\n\n Report error /bugs click the Button",
@@ -498,7 +498,7 @@ def Source_about_callback(update, context):
     if query.data == "source_":
         query.message.edit_text(
             text=""" Hi..🤡 I'm *Anjumani security bot*
-                 \nHere is the [🤡Channel🤡](https://t.me/anjumani_addict) .""",
+                 \nHere is the [🤡Channel🤡](https://t.me/anjumani_zone) .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
